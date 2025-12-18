@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gunit Chawla</h1>
 <h3 align="center">I build scalable full-stack applications that blend clean design with powerful backend logic. Passionate about AI, I love turning data and ideas into intelligent, real-world solutions. Always learning, always building, and constantly pushing the limits of what code can do.</h3>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gunitchawla" alt="gunitchawla" /></a> </p>
-
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
 - 💬 Ask me about **Full Stack Web Developement**
