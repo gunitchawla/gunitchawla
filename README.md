@@ -64,24 +64,30 @@
 <br>
 
 <!-- Backend -->
+
+<!-- Backend -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:1A2980,100:26D0CE&text=🚀%20Backend%20%26%20Database&fontSize=26&fontColor=00F5FF"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;height=100&amp;color=0:0f0c29,100:302b63&amp;text=Backend%20AND%20Database&amp;fontSize=28&amp;fontColor=ffffff"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql&amp;theme=dark" />
 </p>
 
 <br>
 
-<!-- Tools -->
+
+<!-- Tools Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:232526,100:414345&text=🛠️%20Tools&fontSize=28&fontColor=8A2BE2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;height=100&amp;color=0:000000,100:1a1a1a&amp;text=TOOLS%20AND%20WORKFLOW&amp;fontSize=32&amp;fontColor=00F5FF&amp;fontAlignY=50"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux,pandas&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=github,git,linux,vscode,npm,postman&amp;theme=dark" />
 </p>
+
+
+
 
 <!-- Bottom Neon Glow -->
 <p align="center">
